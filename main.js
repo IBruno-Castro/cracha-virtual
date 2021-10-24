@@ -1,7 +1,7 @@
 const links = {
     github: "IBruno-Castro",
-    youtube: "maykbrito",
-    facebook: "maykbrito",
+    youtube: "channel/UCnfu2ydOczPsZp9iIwLRTcQ",
+    facebook: "",
     instagram: "lbrunocastro",
     twitter: "lbrunocastro",
     //objeto com váriaveis de dados de cada rede social
